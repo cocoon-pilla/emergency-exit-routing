@@ -2,6 +2,8 @@
 
 A simple script to give a designer an effective routing of exiting from one floor through a Rhino model.
 
+<img width="893" alt="path" src="https://cloud.githubusercontent.com/assets/20371914/16713068/9fb44f2c-4693-11e6-94dd-7cd7ae9ce095.png">
+
 ## Instructions
 
 - Define floors in the layer 'floors'
